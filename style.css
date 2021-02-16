@@ -1,0 +1,67 @@
+.ti{
+    text-align: center;
+    color: blue;
+}
+
+body#bo{
+    background-color: burlywood;
+    color: blue;
+    font-weight: bold;
+}
+
+
+.bitcoin{
+    color: blue;
+    font-weight: bold;
+    text-align: right;
+}
+
+.le{
+    position: relative;
+    left: -7cm;
+}
+
+.li{
+    position: relative;
+    left: -13cm;
+}
+
+.yu{
+    color: white;
+    text-align: center;
+    background-color: white;
+}
+
+
+.op{
+    position: relative;
+    left: 5cm;
+}
+
+
+.cf{
+    position: relative;
+    left: 1cm;
+    color: blue;
+    font-weight: bold;
+}
+
+.bc{
+position: relative;
+left: 10cm;
+}
+
+.ud{
+    position: relative;
+    left: 8cm;
+}
+
+.nombre{
+    color: red;
+    font-weight: bold;
+}
+
+.sw{
+    text-align: center;
+    background-color: yellow;
+}
